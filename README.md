@@ -1,13 +1,12 @@
 # Baselines and test data for cross-lingual inference
 
-Hello there!
-
-**You'd like to use our test data?**
+### You'd like to use our test data?
 
 Contact [Zeljko](mailto:zeag@itu.dk) or [Natalie](mailto:nael@itu.dk) and we'll send it straight away.
+
 For the time being, we're still setting things up here. :-)
 
-The multilingual embeddings are too big to fit the repository anyway, but do contact us for those as well.
+The **multilingual embeddings** are too big to fit the repository anyway, but do contact us for those as well.
 
 If you use our data, please cite:
 
