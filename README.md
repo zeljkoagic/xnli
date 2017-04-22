@@ -3,7 +3,7 @@
 Just clone to get the test data.
 
 The multilingual embeddings are too big to fit the repository.
-[Contact us](mailto:zeag@itu.dk) and we'll send it straight away.
+[Contact us](mailto:zeag@itu.dk) and we'll send them straight away.
 
 If you use our data, please cite:
 
